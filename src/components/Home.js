@@ -8,7 +8,7 @@ state={
 }   
    componentDidMount(){
      
-    axios.get('http://jsonplaceholder.typicode.com/users')
+    axios.get('https://jsonplaceholder.typicode.com/users')
         .then(res=>{
               this.setState({
                   users:res.data
