@@ -6,7 +6,7 @@ function Navbar(props) {
         <div>
             <nav className="nav-wrapper blue darken-3">
                 <div className="container">
-                    <Link to="/" className="brand-logo center">Ninjapp</Link>
+                    <Link to="/" className="brand-logo center">Know_Your_Candidate</Link>
                     <ul className="right">
                         <li><NavLink exact to="/">Home</NavLink></li>
                         <li><NavLink to="/contact">Contact</NavLink></li>
