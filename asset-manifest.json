@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Political_Candidates/static/css/main.a9b948a5.chunk.css",
-    "main.js": "/Political_Candidates/static/js/main.cf34ef86.chunk.js",
-    "main.js.map": "/Political_Candidates/static/js/main.cf34ef86.chunk.js.map",
+    "main.js": "/Political_Candidates/static/js/main.fe882c41.chunk.js",
+    "main.js.map": "/Political_Candidates/static/js/main.fe882c41.chunk.js.map",
     "runtime-main.js": "/Political_Candidates/static/js/runtime-main.b0d1372c.js",
     "runtime-main.js.map": "/Political_Candidates/static/js/runtime-main.b0d1372c.js.map",
     "static/js/2.5b804ff8.chunk.js": "/Political_Candidates/static/js/2.5b804ff8.chunk.js",
     "static/js/2.5b804ff8.chunk.js.map": "/Political_Candidates/static/js/2.5b804ff8.chunk.js.map",
     "index.html": "/Political_Candidates/index.html",
-    "precache-manifest.7a1bdff97e7491f06527ee8352e39de1.js": "/Political_Candidates/precache-manifest.7a1bdff97e7491f06527ee8352e39de1.js",
+    "precache-manifest.d1dbd5e5f7c64381cbe9e71899d027b5.js": "/Political_Candidates/precache-manifest.d1dbd5e5f7c64381cbe9e71899d027b5.js",
     "service-worker.js": "/Political_Candidates/service-worker.js",
     "static/css/main.a9b948a5.chunk.css.map": "/Political_Candidates/static/css/main.a9b948a5.chunk.css.map",
     "static/js/2.5b804ff8.chunk.js.LICENSE.txt": "/Political_Candidates/static/js/2.5b804ff8.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b0d1372c.js",
     "static/js/2.5b804ff8.chunk.js",
     "static/css/main.a9b948a5.chunk.css",
-    "static/js/main.cf34ef86.chunk.js"
+    "static/js/main.fe882c41.chunk.js"
   ]
 }

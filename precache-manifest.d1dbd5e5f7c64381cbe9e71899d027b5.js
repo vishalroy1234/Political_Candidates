@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d15de46291740bef71126b2d3f6f7507",
+    "revision": "0e13d4db9c6d7cf968c687ac888537e6",
     "url": "/Political_Candidates/index.html"
   },
   {
-    "revision": "0b869a6690339bf7af76",
+    "revision": "3f7d3c8a94634fd96120",
     "url": "/Political_Candidates/static/css/main.a9b948a5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Political_Candidates/static/js/2.5b804ff8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0b869a6690339bf7af76",
-    "url": "/Political_Candidates/static/js/main.cf34ef86.chunk.js"
+    "revision": "3f7d3c8a94634fd96120",
+    "url": "/Political_Candidates/static/js/main.fe882c41.chunk.js"
   },
   {
     "revision": "0d387cbaaf18c8b5d353",
