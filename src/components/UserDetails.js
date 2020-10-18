@@ -8,7 +8,7 @@ class UserDetails extends Component {
     }
     componentDidMount(){
         let id=this.props.match.params.id;
-        axios.get('http://jsonplaceholder.typicode.com/users/'+id)
+        axios.get('https://jsonplaceholder.typicode.com/users/'+id)
              .then(res=>{
                  this.setState({
                      info:res.data
